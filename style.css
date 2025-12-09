@@ -1,0 +1,5 @@
+.body-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;       /* optional but looks nicer */
+    line-height: 1.6;      /* optional readability boost */
+}
